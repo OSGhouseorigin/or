@@ -1,0 +1,47 @@
+[
+    {
+        "image":"",
+        "title":"Ecommerce development: ",
+        "description":"Being able to develop eCommerce websites that are custom tailored allows us the freedom to work with businesses of all types and sizes rather than being limited to only those that fall into a specific category. It allows us to create solutions better suited for each client rather than a one-size-fits-all approach."
+    },
+    {
+        "image":"",
+        "title":"Microservices-based eCommerce",
+        "description":"Microservices are often seen as ideal because of how much they can customize them, scale both vertically and horizontally, and isolate faults. We have talented solution architects with years of experience planning and implementing logical components (microservices) with dependencies that preserve component isolation in the unfortunate event that one should fail."
+    },
+    {
+        "image":"",
+        "title":"Online marketplaces",
+        "description":"We build online business marketplaces for products and services that vary in how sellers are engaged, how orders are processed, and how revenue is managed.Throughout the design and development process, we keep the needs of three key groups in mind: marketplace owners and administrators, sellers, and end consumers. It allows us to create a marketplace tailored to your specific vision while giving sellers certain independence."
+    },
+    {
+        "image":"",
+        "title":"B2C eCommerce",
+        "description":"With B2C eCommerce development, there's more to it than having a great UI. We take things further by analyzing the business context and considering factors like traffic patterns, consumer doubts about your product, and customer acquisition channels. It helps us create B2C web stores that are scalable and have high conversion potential."
+    },
+    {
+        "image":"",
+        "title":"B2B eCommerce",
+        "description":"We work with B2B businesses because we understand their buyers are highly rational. We build user journeys that help facilitate and prompt their decision-making process because we know that in B2B eCommerce solutions, it's important to personalize the buyer's experience.We also set up negotiation workflows between companies and buyers and provide diversified access to different team roles so that everyone has what they need to make the best decisions possible."
+    },
+    {
+        "image":"",
+        "title":"Headless Commerce",
+        "description":"We help create unique template-free designs for different interfaces experienced in decoupled eCommerce architecting. This way, we are free to create any page layout and widgets and connect them via APIs to the back-end functions. With a headless approach, we can create a more fluid experience for the user that is not bound by the restraints of a traditional template design."
+    },
+    {
+        "image":"",
+        "title":"PWA",
+        "description":"Origin software believes that Progressive Web Apps (PWA) are the way to develop one app for both web and mobile audiences. The major advantage of PWAs is that they are responsive, meaning that they adjust their styling and layout depending on the size of the viewport. Additionally, origin software has a ready-made PWA Studio with all the tooling to deliver PWAs quickly and efficiently."
+    },
+    {
+        "image":"",
+        "title":"Online multi-store",
+        "description":"At origin software, we focus on helping eCommerce businesses reach new heights by expanding to new geographies and market segments. Our multi-store solutions are well-organized and easy to administrate, with support for multiple languages and catalogs. This way, you can focus on running your business while we care for the details for a better user experience."
+    },
+    {
+        "image":"",
+        "title":"Web portals",
+        "description":"Web portals come in all shapes and sizes, each customizable to fit the unique needs of any retail business. Whether a vendor needs help managing their customers, building their brand, or sharing their catalog, a well-defined portal goal can help them implement the right functional components and set up an efficient workflow."
+    }
+]

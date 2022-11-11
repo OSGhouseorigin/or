@@ -1,0 +1,17 @@
+[
+    {
+        "image":"",
+        "title":"Staff Augmentation",
+        "description":"Staff augmentation is when outsourced developers work remotely with your in-house team and are managed by you directly. The key benefit of this model is filling in the skill and resource gaps within your development team."
+    },
+    {
+        "image":"",
+        "title":"A Dedicated Team ",
+        "description":"A dedicated team is when an outsourced team covers a part of the development project and is managed by a vendor's PM, who regularly reports to you on the progress. The key benefit of this model is expanding software development capabilities and minimizing management efforts."
+    },
+    {
+        "image":"",
+        "title":"Full Process Outsourcing",
+        "description":"Full process outsourcing is when a vendor sets up the development process and takes full responsibility. This model is beneficial if you want to minimize risks and costs associated with the project."
+    }
+]

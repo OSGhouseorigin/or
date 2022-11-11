@@ -1,0 +1,32 @@
+[
+    {
+        "image":"",
+        "title":"Cross-Platform",
+        "description":"React Native allows for a single codebase to be used for both Android and iOS platforms- saving time and resources."
+    },
+    {
+        "image":"",
+        "title":"Trusted by Billions of Users",
+        "description":"React Native was used for the Facebook and Instagram mobile apps- which are used by billions of users daily."
+    },
+    {
+        "image":"",
+        "title":"Swift Deployment",
+        "description":"Mobile apps built with React Native can be quickly deployed and made go live, due to most of the code being reusable, and a seamless modular structure."
+    },
+    {
+        "image":"",
+        "title":"3rd Party Integrations",
+        "description":"Since React Native uses JavaScript, we have access to a wide range of 3rd party APIs and tools."
+    },
+    {
+        "image":"",
+        "title":"Modular Structure",
+        "description":"React Native's modular structure is key to its success: the same modules can be used across different APIs for fast results."
+    },
+    {
+        "image":"",
+        "title":"Powerful Performance",
+        "description":"The platform is also powerful when it comes to performance, making use of GPU (Graphics Processing Unit) rather than CPU (Central Processing Unit) to ensure a smooth experience."
+    }
+]

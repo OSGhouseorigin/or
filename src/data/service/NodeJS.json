@@ -1,0 +1,22 @@
+[
+    {
+        "image":"",
+        "title":"",
+        "description":"Adherence to code rules, precise and descriptive variable names, comments explaining what particular code functions and methods do, and a README that documents what the whole code does and its dependencies."
+    },
+    {
+        "image":"",
+        "title":"",
+        "description":"In addition, code should be split into short units and portable so that it can be used on different systems."
+    },
+    {
+        "image":"",
+        "title":"",
+        "description":"Unit tests should be conducted regularly to ensure the code works as intended."
+    },
+    {
+        "image":"",
+        "title":"",
+        "description":"Finally, using linting tools like SonarQube and ESLint can help identify potential errors in the code."
+    }
+]

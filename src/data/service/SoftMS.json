@@ -1,0 +1,27 @@
+[
+    {
+        "image":"",
+        "title":"Reactive support:",
+        "description":"It is the support that is triggered by a request from a customer."
+    },
+    {
+        "image":"",
+        "title":"End user support:",
+        "description":"It is the support that is provided to the end users. The first-level support team provides this support."
+    },
+    {
+        "image":"",
+        "title":"Application support:",
+        "description":"It is the support that is provided to the application. The second-level support team provides this support."
+    },
+    {
+        "image":"",
+        "title":"Development support:",
+        "description":"It is the support that is provided to the application. The third-level support team provides this support.This support is also known as custom development."
+    },
+    {
+        "image":"",
+        "title":"Proactive support (continuous)",
+        "description":"Support is the process of helping customers to solve problems and to get the most out of their products. It includes both reactive and proactive activities. "
+    }
+]

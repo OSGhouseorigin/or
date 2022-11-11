@@ -1,0 +1,65 @@
+[
+    {
+        "fromtext": "Yelp",
+        "from": "/images/icon/yelp-2.png",
+        "description": "“ Outstanding about everything : Support is fast and perfect : I got answers to every questions I asked. Code quality is up to date, modern, structured, clear, easy to understand. Responsive is responsive (any screen size, smartphone & tablet). Design is pure and esthetic. Origin Provide updates. Thank you Origin team for all of this! Keep going!” ",
+        "authorimg": "/images/testimonial/testimonial-1.png",
+        "authorname": "Saboo Diagnostics"
+    },
+    {
+        "fromtext": "Yelp",
+        "from": "/images/icon/yelp-2.png",
+        "description": "“ My project is totally customizable, clean with all the options you could want. The customer support is absolutely unsurpassed. ”",
+        "authorimg": "/images/testimonial/testimonial-1.png",
+        "authorname":"Elite Dental Hospitals"
+    },
+    {
+        "fromtext": "Yelp",
+        "from": "/images/icon/yelp-2.png",
+        "description": "“ Origin made my Website extremely well organised, the help and support is terrific and the options provided by the company are about the most perfect I've found - what more could you ask for? ”",
+        "authorimg": "/images/testimonial/testimonial-1.png",
+        "authorname": "Big Dry Fruits"
+    },
+    {
+        "fromtext": "Google",
+        "from": "/images/icon/google-2.png",
+        "description": "“ Outstanding about everything : Support is fast and perfect : I got answers to every questions I asked. Code quality is up to date, modern, structured, clear, easy to understand. Responsive is responsive (any screen size, smartphone & tablet). Design is pure and esthetic. Origin Provide updates. Thank you Origin team for all of this! Keep going!” ",
+        "authorimg": "/images/testimonial/testimonial-2.png",
+        "authorname": "Saboo Diagnostics"
+    },
+    {
+        "fromtext": "Google",
+        "from": "/images/icon/google-2.png",
+        "description": "“ My project is totally customizable, clean with all the options you could want. The customer support is absolutely unsurpassed. ”",
+        "authorimg": "/images/testimonial/testimonial-2.png",
+        "authorname": "Elite Dental Hospitals"
+    },
+    {
+        "fromtext": "Google",
+        "from": "/images/icon/google-2.png",
+        "description": "“ Origin made my Website extremely well organised, the help and support is terrific and the options provided by the company are about the most perfect I've found - what more could you ask for? ”",
+        "authorimg": "/images/testimonial/testimonial-2.png",
+        "authorname": "Big Dry Fruits"
+    },
+    {
+        "fromtext": "Facebook",
+        "from": "/images/icon/fb-2.png",
+        "description":  "“ Outstanding about everything : Support is fast and perfect : I got answers to every questions I asked. Code quality is up to date, modern, structured, clear, easy to understand. Responsive is responsive (any screen size, smartphone & tablet). Design is pure and esthetic. Origin Provide updates. Thank you Origin team for all of this! Keep going!” ",
+        "authorimg": "/images/testimonial/testimonial-3.png",
+        "authorname": "Saboo Diagnostics"
+    },
+    {
+        "fromtext": "Facebook",
+        "from": "/images/icon/fb-2.png",
+        "description":  "“ My project is totally customizable, clean with all the options you could want. The customer support is absolutely unsurpassed. ”",
+        "authorimg": "/images/testimonial/testimonial-3.png",
+        "authorname": "Elite Dental Hospitals"
+    },
+    {
+        "fromtext": "Facebook",
+        "from": "/images/icon/fb-2.png",
+        "description": "“ Origin made my Website extremely well organised, the help and support is terrific and the options provided by the company are about the most perfect I've found - what more could you ask for? ”",
+        "authorimg": "/images/testimonial/testimonial-3.png",
+        "authorname": "Big Dry Fruits"
+    }
+]

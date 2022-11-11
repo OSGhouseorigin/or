@@ -1,0 +1,167 @@
+[
+    {
+        "image": "/images/icon/01_SOFTWARE DEVELOPMENT.png",
+        "title": "Software Development",
+        "description": "We can help you design a website that is both user- and search engine-friendly, and that reflects your unique business idea."
+    },
+    {
+        "image": "/images/icon/02_MOBILE  APPLICATIONS.png",
+        "title": "Mobile Application",
+        "description": "The web development team is experienced in multiple digital disciplines, and we use our knowledge to create high-performing web applications."
+    },
+    {
+        "image": "/images/icon/03_SEO & DIGITAL MARKETING.png",
+        "title": "SEO & Digital Marketing",
+        "description": "We also use our online marketing expertise at every step of the web design and development process to empower our clients."
+    },
+    {
+        "image": "/images/icon/04_WEB & CMS DEVELOPMENT.png",
+        "title": "Web & CMS Development",
+        "description": "Our team has a wealth of experience developing CMS websites, eCommerce portals, PWA, and end-end digital product development."
+    },
+    {
+        "image": "/images/icon/05_CORPORATE BRANDING.png",
+        "title": "Corporate Branding",
+        "description": "we always stay ahead of the curve by adopting emerging technology frameworks and engineering standards to build full-stack web applications."
+    },
+    {
+        "image": "/images/icon/06_GOOGLE BUSINESS 360° VIEW.png",
+        "title": "Google Business 360° View",
+        "description": "We use this information to build a deep content strategy to help you assess your current and future requirements, integrations, and budgets."
+    },
+
+    {
+        "image": "/images/icon/icon-29.png",
+        "title": "Logo & Branding",
+        "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+        "cate": "Design"
+    },
+    {
+        "image": "/images/icon/icon-27.png",
+        "title": "Website Design",
+        "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+        "cate": "Design"
+    },
+    {
+        "image": "/images/icon/icon-28.png",
+        "title": "Mobile app design",
+        "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+        "cate": "Design"
+    },
+    {
+        "image": "/images/icon/icon-4.png",
+        "title": "Graphic/print design",
+        "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+        "cate": "Design"
+    },
+    {
+        "image": "/images/icon/icon-30.png",
+        "title": "Video production",
+        "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+        "cate": "Design"
+    },
+
+    {
+        "image": "/images/icon/icon-31.png",
+        "title": "Content Managment",
+        "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+        "cate": "Development"
+    },
+    {
+        "image": "/images/icon/icon-32.png",
+        "title": "Mobile app development",
+        "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+        "cate": "Development"
+    },
+    {
+        "image": "/images/icon/icon-33.png",
+        "title": "eCommerce",
+        "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+        "cate": "Development"
+    },
+    {
+        "image": "/images/icon/icon-34.png",
+        "title": "SEO",
+        "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+        "cate": "Online Marketing"
+    },
+    {
+        "image": "/images/icon/icon-35.png",
+        "title": "Pay-per click",
+        "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+        "cate": "Online Marketing"
+    },
+    {
+        "image": "/images/icon/icon-36.png",
+        "title": "Email marketing",
+        "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+        "cate": "Online Marketing"
+    },
+    {
+        "image": "/images/icon/icon-37.png",
+        "title": "Display marketing",
+        "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+        "cate": "Online Marketing"
+    },
+    {
+        "image": "/images/icon/icon-38.png",
+        "title": "Social Media marketing",
+        "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+        "cate": "Online Marketing"
+    },
+    {
+        "image": "/images/icon/icon-39.png",
+        "title": "Digital strategy",
+        "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+        "cate": "Business"
+    },
+    {
+        "image": "/images/icon/icon-40.png",
+        "title": "Business consulting",
+        "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+        "cate": "Business"
+    },
+    {
+        "image": "/images/icon/icon-41.png",
+        "title": "Content writing",
+        "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+        "cate": "Business"
+    },
+    {
+        "image": "/images/icon/icon-42.png",
+        "title": "Reporting",
+        "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+        "cate": "Business"
+    },
+    {
+        "image": "/images/icon/icon-43.png",
+        "title": "Hosting",
+        "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+        "cate": "Technology"
+    },
+    {
+        "image": "/images/icon/icon-44.png",
+        "title": "Big data analysis",
+        "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+        "cate": "Technology"
+    },
+    {
+        "image": "/images/icon/icon-45.png",
+        "title": "Web Audit Practices",
+        "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+        "cate": "Content strategy"
+    },
+    {
+        "image": "/images/icon/icon-46.png",
+        "title": "Marketing Flexibility",
+        "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+        "cate": "Content strategy"
+    },
+    {
+        "image": "/images/icon/icon-47.png",
+        "title": "Advertising Strategy",
+        "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+        "cate": "Content strategy"
+    }
+    
+]

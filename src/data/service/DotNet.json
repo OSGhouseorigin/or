@@ -1,0 +1,22 @@
+[
+    {
+        "image":"",
+        "title":"Request Analysis (1 week)",
+        "description":"We will sit down with you and discuss your development needs to better understand how we can help you. This will allow us to define a cooperation model that best suits your needs (team augmentation, dedicated team, or full outsourcing)."
+    },
+    {
+        "image":"",
+        "title":"Screening & Interviews (2-5 days)",
+        "description":"For a team augmentation model, we will provide you with developers’ CVs and set up interviews with the candidates you are interested in."
+    },
+    {
+        "image":"",
+        "title":"SLA preparation (2 weeks)",
+        "description":"We will discuss the services you need within the chosen cooperation model and reflect them in a Service Level Agreement.This Agreement will outline the expectations and responsibilities of both parties for the duration of our cooperation."
+    },
+    {
+        "image":"",
+        "title":"Cooperation launch (1-2 days)",
+        "description":"We will have a meeting on service scope between developers and you which was mentioned in SLA"
+    }
+]

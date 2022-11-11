@@ -1,0 +1,42 @@
+[
+    {
+        "image":"",
+        "title":"Software Development consulting",
+        "description":"If you need assistance developing software solutions to cover your business needs, software consulting services may be the way to go."
+    },
+    {
+        "image":"",
+        "title":"Software Consulting",
+        "description":"There's a lot that goes into making sure your software is compliant with industry laws and regulations. We can help you assess your software and figure out what requirements you need to license your product."
+    },
+    {
+        "image":"",
+        "title":"Team Augmentation",
+        "description":"We can provide additional staff resources to support any role in your development team."
+    },
+    {
+        "image":"",
+        "title":"Setting up DevOps processes",
+        "description":"We can help you build an effective DevOps pipeline to speed up your software delivery process."
+    },
+    {
+        "image":"",
+        "title":"Business process analysis",
+        "description":"Business process analysis is important for any business that wants to improve. By auditing your processes and planning improvements with software-only changes, you can increase efficiency, productivity, and profitability"
+    },
+    {
+        "image":"",
+        "title":"Project management consulting",
+        "description":"Project management consulting can help you set up processes and controls to keep project deliverables, schedules, and costs on track. By enabling continuous software delivery, you can accelerate project development and ensure successful completion."
+    },
+    {
+        "image":"",
+        "title":"Software product consulting",
+        "description":"At Origin software, we help get your software product ready for market entry. We plan and prioritize product features, keeping your future customers in mind. We also build multi-tenant architecture and provide skilled testing engineers to save you time and money."
+    },
+    {
+        "image":"",
+        "title":"QA process setup",
+        "description":"Technology is always changing, but our expert solution architects and software developers are experienced in a wide range of technologies. We can provide software development consulting services across many platforms."
+    }
+]

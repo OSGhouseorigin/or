@@ -1,0 +1,42 @@
+[
+    {
+        "image":"",
+        "title":"Quick time to market",
+        "description":"Our development process is designed to get your product to market quickly while still maintaining a steady release schedule. We utilize an Agile development approach, which, combined with a CI/CD pipeline and DevOps methodology, allows us to introduce new product changes rapidly."
+    },
+    {
+        "image":"",
+        "title":"Reduce the cost of development ",
+        "description":"Additionally, using scalable cloud-native architectures and ready-made components helps reduce development costs."
+    },
+    {
+        "image":"",
+        "title":"Dedicated teams",
+        "description":"And finally, we are dedicated to ensuring that the team assigned to your project is not only committed to seeing it succeed but also has a vested interest in doing so."
+    },
+    {
+        "image":"",
+        "title":"Transparent self-management",
+        "description":"At our company, we pride ourselves on providing our clients with teams of developers who can work independently and deliver high-quality products. Our Quality Management System is ISO 9001 certified, meaning that we have established standards that our developers must adhere to for better results."
+    },
+    {
+        "image":"",
+        "title":"Flexible outsourcing options",
+        "description":"We can take over the entire software product development process or supplement your in-house team with additional staff if desired. "
+    },
+    {
+        "image":"",
+        "title":"Secure cooperation",
+        "description":"At the beginning of our cooperation, we sign an NDA to ensure that your information stays confidential. As the project goes on, your product is protected by our secure IT infrastructure, data security practices, and adherence to industry-specific standards."
+    },
+    {
+        "image":"",
+        "title":"Context-aware product design",
+        "description":"We know your target audience and can use user behavior data to plan the product's UI and functionality."
+    },
+    {
+        "image":"",
+        "title":"Risk management",
+        "description":"We estimate different risks (time, budget, performance) so you know what to expect.iOSApp.json"
+    }
+]

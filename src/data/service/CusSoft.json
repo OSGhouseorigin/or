@@ -1,0 +1,47 @@
+[
+    {
+        "image": "",
+        "title": "Software development",
+        "description": "Origin Softwares is a leading software development company in Hyderabad, India. we create incredible software for your business."
+    },
+    {
+        "image": "",
+        "title": "Web development",
+        "description": "Our services also include web development; you can check our website development portfolio as a reference. It has various web-based apps developed by our experts."
+    },
+    {
+        "image": "",
+        "title": "Mobile app development",
+        "description": "We have been Building on our experience with over 20+ completed mobile projects. we can deliver mobile apps for any platform and industry."
+    },
+    {
+        "image": "",
+        "title": "Desktop development",
+        "description": "Our desktop app development services include Mac, Windows, and Linux in C++/Qt, .NET, and Python programming languages."
+    },
+    {
+        "image": "",
+        "title": "Database development",
+        "description": "We can help you organize your data for efficient analysis and decision-making."
+    },
+    {
+        "image": "",
+        "title": "Cloud app development ",
+        "description": "Our cloud app development services ensure rational use of cloud resources to avoid over- or under-provisioning."
+    },
+    {
+        "image": "",
+        "title": "API development and software integration",
+        "description": "Our development teams employ API-driven development to seamlessly integrate custom software with corporate and third-party systems and services."
+    },
+    {
+        "image": "",
+        "title": "SaaS development",
+        "description": "Our company offers assistance for developing software for the saas apps."
+    },
+    {
+        "image": "",
+        "title": "Modernization",
+        "description": "In addition, we can improve the usability, refactor code and optimize the maintenance cost of legacy software."
+    }
+]

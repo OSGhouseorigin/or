@@ -1,0 +1,32 @@
+[
+    {
+        "image":"",
+        "title":"Challenges We Solve",
+        "description":"We solve all sorts of development challenges, big and small. From making sure your app is compatible with multiple devices, to addressing performance and memory limitations, to taking measures to reduce battery consumption, we've got you covered. Plus, our Quality Management System guarantees that all challenges are solved properly, so you can be confident you're getting a perfect mobile solution that will work great on any iPhone or iPad."
+    },
+    {
+        "image":"",
+        "title":"UI/UX Design",
+        "description":"At Origin Softwares, we are always up-to-date with Apple's visual design guidelines. This makes it easy for us to meet their expectations. Our mobile app designers use UIKit to create interfaces that comply with Apple's UI standards. Our iOS apps feature transparent interaction patterns that guarantee a seamless user experience. We tune up navigation, feedback, authentication, and other UX functionalities until interacting with the app feels natural."
+    },
+    {
+        "image":"",
+        "title":"Technologies and Features",
+        "description":"At Origin Softwares, we use the latest and greatest technologies available to us to create cutting-edge iOS apps. We take advantage of Objective-C and Swift, as well as introduce all the latest iOS features to our apps. Some of the features we utilize include Apple Pay, iCloud Drive, iBeacon, Core Bluetooth, NFC, Siri, iMovie, 3D Touch, and Social Media APIs. And this list is constantly expanding as iPhones and iPads welcome new possibilities."
+    },
+    {
+        "image":"",
+        "title":"Backend",
+        "description":"When it comes to backend development, our experts in server and database technologies work closely with our mobile app development team to develop a light weight mobile app"
+    },
+    {
+        "image":"",
+        "title":"Enterprise Integration",
+        "description":"Our company specializes in integrating iOS apps with any in-house system you may have. We use the latest mobile device management technologies to ensure enterprise security, widely available connectivity, and efficient app distribution."
+    },
+    {
+        "image":"",
+        "title":"Information Security",
+        "description":"Security is important to us, and we're certified to prove it. We're ISO 27001 certified, which means we follow the highest standards when it comes to keeping your data safe. Whether it's health information or app payments, we use the latest security measures to ensure your data is always protected."
+    }
+]
